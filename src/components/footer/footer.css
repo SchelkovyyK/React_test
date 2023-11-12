@@ -1,0 +1,10 @@
+.foot {
+  grid-area: footer;
+  width: 100%;
+  background-color: gray;
+}
+.what_am_I_doing {
+  text-align: center;
+  font-size: 2vh;
+  color: beige;
+}

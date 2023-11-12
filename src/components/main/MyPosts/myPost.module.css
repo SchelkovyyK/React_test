@@ -1,0 +1,8 @@
+.fatherUl > li {
+  height:30px;
+  list-style-type: none;
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

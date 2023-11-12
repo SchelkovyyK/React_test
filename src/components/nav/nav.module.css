@@ -1,0 +1,14 @@
+.sidebar {
+  grid-area: nav;
+  background-color: blueviolet;
+}
+.items{
+    text-align: center;
+    line-height:40px;
+    font-size: 20px;
+    color:white;
+    cursor:pointer;
+}
+.items:hover{
+  color:gold;
+}

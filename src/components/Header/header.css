@@ -1,0 +1,11 @@
+.header {
+  grid-area: header;
+  background-color: aquamarine;
+}
+.redacted_logo {
+  border: 1px solid blue;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  transform: translateX(50%, 10px);
+}
